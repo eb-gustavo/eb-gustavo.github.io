@@ -59,6 +59,12 @@ function downloadWidgetJs(urlParams) {
     var widgetUrlMap = {
         dev: 'https://www.evbdev.com/static/widgets/eb_widgets.js',
         qa: 'https://www.evbqa.com/static/widgets/eb_widgets.js',
+        qa1: 'https://www.evbqa1.com/static/widgets/eb_widgets.js',
+        qa2: 'https://www.evbqa2.com/static/widgets/eb_widgets.js',
+        qa3: 'https://www.evbqa3.com/static/widgets/eb_widgets.js',
+        qa5: 'https://www.evbqa5.com/static/widgets/eb_widgets.js',
+        qa6: 'https://www.evbqa6.com/static/widgets/eb_widgets.js',
+        qa7: 'https://www.evbqa7.com/static/widgets/eb_widgets.js',
         prod: 'https://www.eventbrite.com/static/widgets/eb_widgets.js'
     };
 
